@@ -54,4 +54,4 @@ After running the game, the following screen will be displayed:
 
 For example:
 
-<video height="264" controls> <source src="./images/game.mov" type="video/mp4"> </video>
+[<video height="264" controls> <source src="./images/game.mov" type="video/mp4"> </video>](https://user-images.githubusercontent.com/90487510/204964979-1de5d2cf-2ac9-463c-89de-b4e33f1f1fec.mov)
