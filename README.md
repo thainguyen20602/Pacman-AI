@@ -53,4 +53,5 @@ After running the game, the following screen will be displayed:
 ![image](./images/image.jpg)
 
 For example:
-<video width="320" height="240" controls> <source src="./images/game.mov" type="video/mp4"> </video>
+
+<video height="264" controls> <source src="./images/game.mov" type="video/mp4"> </video>
