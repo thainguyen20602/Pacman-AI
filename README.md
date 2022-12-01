@@ -43,5 +43,14 @@ python pacman.py -l mediumClassic -p MinimaxAgent -a depth=3,evalFn=betterEvalua
 ```
 python pacman.py -l mediumClassic -p MinimaxAgent -a depth=3,evalFn=betterEvaluationFunction -f
 ```
+Where: 
+- All possible layouts in the game [here](./layouts/)
+- The algorithms available in the game is: "MiniMax", "Alpha-Beta" and "Expectimax"
+- Evaluation Functions available in image is "EvaluationFunctionMe"
 
+--------------------------------
+After running the game, the following screen will be displayed:
+![image](./images/image.jpg)
 
+For example:
+<video width="320" height="240" controls> <source src="./images/game.mov" type="video/mp4"> </video>
